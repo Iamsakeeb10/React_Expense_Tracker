@@ -3,7 +3,6 @@ import React, { useState } from "react";
 import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
 
-
 const DUMMY_EXPENSES = [
   {
     id: "e1",
@@ -32,12 +31,12 @@ const DUMMY_EXPENSES = [
 ];
 
 const App = () => {
- 
-  const [expenses, setExpenses]  = useState(DUMMY_EXPENSES);
+  const [expenses, setExpenses] = useState(DUMMY_EXPENSES);
 
+  // To add new items
   const saveExpenses = (expense) => {
-    setExpenses(prevExpenses => {
-      return [expense, ...prevExpenses]
+    setExpenses((prevExpenses) => {
+      return [expense, ...prevExpenses];
     });
   };
 
