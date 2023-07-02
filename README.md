@@ -8,4 +8,4 @@ A simple Expense Tracker Built With React. Very easy to use and maintain.
 - Backup text if no expenses left.
 
 ## Screenshot
-![Screenshot](assets\images\Screenshot(201).png)
+D:\React-Projects\Expense-Tracker\src\assets\images\Screenshot (201).png
