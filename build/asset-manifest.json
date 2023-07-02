@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bee760ce.css",
+    "main.js": "/static/js/main.501cf2cd.js",
+    "static/media/risotto.jpg": "/static/media/risotto.5f14635ac25056dcd122.jpg",
+    "static/media/cheeseburgers.jpg": "/static/media/cheeseburgers.e365182f3a6dd535af3b.jpg",
+    "index.html": "/index.html",
+    "main.bee760ce.css.map": "/static/css/main.bee760ce.css.map",
+    "main.501cf2cd.js.map": "/static/js/main.501cf2cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee760ce.css",
+    "static/js/main.501cf2cd.js"
+  ]
+}
